@@ -2,7 +2,7 @@
 - I’m interested in sports, music, videogames & programming.
 - I’m currently learning computer engineering.
 - I’m looking to collaborate on music or programming projects.
-- You can reach me at javierfco.perez.san@gmail.com.
+- You can reach me at javichav1.jp@gmail.com.
 
 <!---
 WhiteXavi/WhiteXavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
