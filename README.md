@@ -1,7 +1,7 @@
 - Hi, I’m Javi
 - I’m interested in sports, music, videogames & programming.
-- I’m currently learning computer engineering.
-- I’m looking to collaborate on music or programming projects.
+- I’m currently learning software development.
+- I’m looking to collaborate on programming projects.
 - You can reach me at javichav1.jp@gmail.com.
 
 <!---
