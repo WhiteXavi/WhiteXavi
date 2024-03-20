@@ -1,7 +1,6 @@
 <h1 aling="center">Javier Fco Pérez</h1>
 <p>
   <ul>
-    <li>I’m interested in sports, music, videogames & programming.</li>
     <li>I’m currently learning software development.</li>
     <li>I’m looking to collaborate on programming projects.</li>
     <li>You can reach me at javichav1.jp@gmail.com.</li>
