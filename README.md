@@ -1,11 +1,12 @@
 <h1 aling="center">Javier Fco Pérez</h1>
 <p>
   <ul>
-    <li>I’m currently learning software development.</li>
-    <li>I’m looking to collaborate on programming projects.</li>
+    <li>I’m currently learning software development</li>
+    <li>I’m looking to collaborate on programming projects</li>
+    <li>You can reach me at <a href = "mailto: javichav1.jp@gmail.com">javichav1.jp@gmail.com</a></li>
   </ul>
 </p>
-### You can reach me at **javichav1.jp@gmail.com**
+
 <div class='container'>
   <h3>Those are some of the technologies I have experience working with:</h3>
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" style="width: 40px; height: auto;">
