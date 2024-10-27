@@ -3,6 +3,7 @@
   <ul>
     <li>I’m currently learning software development</li>
     <li>I’m looking to collaborate on programming projects</li>
+    <li><a href = "whitexavi.github.io">My personal website</a></li>
     <li>You can reach me at <a href = "mailto: javichav1.jp@gmail.com">javichav1.jp@gmail.com</a></li>
   </ul>
 </p>
