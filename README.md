@@ -12,7 +12,7 @@
   <h3>Those are some of the technologies I have experience working with:</h3>
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" style="width: 40px; height: auto;">
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" alt="Java" style="width: 60px; height: auto;">
-  <img src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" alt="Kotlin" style="width: 50px; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="Kotlin" style="width: 50px; height: auto;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML5" style="width: 50px; height: auto;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS3" style="width: 48px; height: auto;">
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" style="width: 70px; height: auto;">
