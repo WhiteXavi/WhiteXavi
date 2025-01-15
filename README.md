@@ -1,9 +1,9 @@
 <h1 aling="center">Javier Fco Pérez</h1>
 <p>
   <ul>
-    <li>I’m currently learning software development</li>
+    <li>Software Developer</li>
     <li>I’m looking to collaborate on programming projects</li>
-    <li><a href = "https://whitexavi.github.io/">My personal website</a></li>
+    <!--<li><a href = "https://whitexavi.github.io/">My personal website</a></li> -->
     <li>You can reach me at <a href = "mailto: javichav1.jp@gmail.com">javichav1.jp@gmail.com</a></li>
   </ul>
 </p>
